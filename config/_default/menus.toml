@@ -1,0 +1,52 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+#[[main]]
+ # name = "CV"
+  #url = "#CV"
+  #weight = 10
+
+#[[main]]
+ # name = "Posts"
+  #url = "#posts"
+  #weight = 20
+
+[[main]]
+ # name = "Projects"
+#  url = "#projects"
+ # weight = 30
+
+#[[main]]
+ # name = "Courses"
+ # url = "courses/"
+  #weight = 50
+
+#[[main]]
+ #name = "Contact"
+  #url = "mailto:clynncrosby@gmail.com"
+ #weight = 60
+ 
+ [[main]]
+    name = "Research Gate"  # A name for the link.
+    url = "https://www.researchgate.net/profile/Courtney_Crosby2"  # URL of the section.
+    weight = 40  # Position of the link in the menu.
+    
+    [[main]]
+    name = "Courtney's work in Psychology Today"  # A name for the link.
+    url = "https://www.psychologytoday.com/us/blog/experimentations/202001/the-6-primary-kinds-sexual-disgust"  # URL of the section.
+    weight = 100  # Position of the link in the menu.
+
+ [[main]]
+    name = "Courtney's work in Emotion Researcher"  # A name for the link.
+    url = "http://emotionresearcher.com/sexual-disgust-an-evolutionary-perspective/"  # URL of the section.
+    weight = 300  # Position of the link in the menu.
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 10

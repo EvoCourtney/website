@@ -10,7 +10,7 @@ subtitle = ""
   
   
   [design]
-   view =1
+   view =1 
      columns = "1"
      align = "center"
       image_position = "center"

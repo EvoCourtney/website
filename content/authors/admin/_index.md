@@ -37,11 +37,11 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IspWpBAAAAAJ&hl=en&authuser=1
 superuser: true
-title: Courtney Crosby
+title: Courtney L. Crosby
 user_groups:
 - Researchers
 - Visitors
 ---
 Courtney holds a Master’s degree in Psychology from The University of Texas at Austin. Her research focuses on studying the role of evolutionary theory on the behavioral correlates of human sexuality. Specifically, her interests include individual and cultural differences in sexual disgust, religiosity, and moral norms surrounding sexual behavior.
  
-Courtney is one of three volunteer coordinators for HBES' new Roundtable Seminar Series. Read more about that series by visiting https://www.hbes.com/roundtable-seminar-series/.
+Courtney is one of three volunteer coordinators for HBES' new Roundtable Seminar Series. Read more about that series by visiting this website: https://www.hbes.com/roundtable-seminar-series/.

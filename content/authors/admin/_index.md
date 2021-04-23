@@ -43,5 +43,3 @@ user_groups:
 - Visitors
 ---
 Courtney holds a Master’s degree in Psychology from The University of Texas at Austin. Her research focuses on studying the role of evolutionary theory on the behavioral correlates of human sexuality. Specifically, her interests include individual and cultural differences in sexual disgust, religiosity, and moral norms surrounding sexual behavior.
- 
-Courtney is one of three volunteer coordinators for HBES' new Roundtable Seminar Series. Read more about that series by visiting this website: https://www.hbes.com/roundtable-seminar-series/.

@@ -23,8 +23,8 @@ publishDate: "2021"
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
  # ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
-Source Themes
-title: Sex, sexual arousal, and sexual decision making: An evolutionary perspective
+- Source Themes
+- title: Sex, sexual arousal, and sexual decision making: An evolutionary perspective
 #url_code: ""
 #url_dataset: ""
 url_pdf: https://labs.la.utexas.edu/buss/files/2021/03/Crosby-et-al.-2021.pdf

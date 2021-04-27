@@ -18,7 +18,7 @@ publication: '*Adaptive Human Behavior and Physiology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "Stage 1 Registered Report: Accepted in Principle"
+publishDate: "Accepted with revisions"
 #slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
  # ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

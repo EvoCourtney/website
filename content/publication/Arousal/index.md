@@ -17,7 +17,7 @@ projects: []
 publication: '*Personality and Individual Differences*'
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 publishDate: "2021"
 #slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus

@@ -35,7 +35,7 @@ font_size = "M"
 site_type = "Person"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Courtney Crosby"
+description = "Courtney L. Crosby"
 
 ############################
 ## Site Features

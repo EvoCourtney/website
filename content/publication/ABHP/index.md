@@ -33,7 +33,8 @@ url_pdf: https://labs.la.utexas.edu/buss/files/2020/06/Manuscript.pdf
 #url_slides: ""
 #url_source: ""
 #url_video: ""
----
+
+###---
 #{{% alert note %}}
 #Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 #{{% /alert %}}

@@ -35,7 +35,7 @@ font_size = "M"
 site_type = "Person"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Courtney L. Crosby"
+description = "Courtney Crosby"
 
 ############################
 ## Site Features
@@ -167,7 +167,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Available address formats.
 [address_formats]

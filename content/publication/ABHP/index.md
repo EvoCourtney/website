@@ -5,7 +5,7 @@ authors:
 - Durkee, P. K.
 - Sedlacek, A.
 - Buss, D. M. 
-date: "2020-01-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 featured: true
 #image:
@@ -18,7 +18,7 @@ publication: '*Adaptive Human Behavior and Physiology*'
 publication_short: ""
 publication_types:
 - "2"
-#publishDate: "Accepted with revisions"
+#publishDate: "2021"
 #slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
  # ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -27,7 +27,7 @@ tags:
 title: Mate Availability and Sexual Disgust
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://labs.la.utexas.edu/buss/files/2020/06/Manuscript.pdf
+url_pdf: https://osf.io/g9us7/
 #url_poster: ""
 #url_project: ""
 #url_slides: ""

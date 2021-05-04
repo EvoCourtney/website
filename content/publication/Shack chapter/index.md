@@ -11,7 +11,7 @@ featured: true
   #preview_only: false
   
 projects: []
-publication: '*The Cambridge Handbook ofEvolutionary Perspectives on Sexual Psychology*'
+publication: '*The Cambridge Handbook of Evolutionary Perspectives on Sexual Psychology*'
 publication_short: ""
 publication_types:
 - "2"

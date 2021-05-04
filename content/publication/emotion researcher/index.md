@@ -12,7 +12,7 @@ featured: true
   #preview_only: false
   
 projects: []
-publication: '*Emotion Researcher, Invited Symposium Paper*'
+publication: '*Emotion Researcher*'
 publication_short: ""
 publication_types:
 - "2"

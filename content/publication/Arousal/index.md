@@ -14,7 +14,7 @@ featured: true
   #preview_only: false
   
 projects: []
-publication: '*Personality and Individual Differences*'
+publication: '*Personality and Individual Differences, 177*'
 publication_short: ""
 publication_types:
 - "2"

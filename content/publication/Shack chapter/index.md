@@ -15,7 +15,7 @@ publication: '*The Cambridge Handbook of Evolutionary Perspectives on Sexual Psy
 publication_short: ""
 publication_types:
 - "2"
-#publishDate: "2021"
+publishDate: "2021"
 #slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
  # ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

@@ -27,7 +27,7 @@ tags:
 title: Mate Availability and Sexual Disgust
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://osf.io/g9us7/
+url_pdf: https://labs.la.utexas.edu/buss/files/2021/05/Crosby_et_al-2021-Adaptive_Human_Behavior_and_Physiology.pdf
 #url_poster: ""
 #url_project: ""
 #url_slides: ""

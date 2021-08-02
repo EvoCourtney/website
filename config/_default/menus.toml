@@ -50,3 +50,11 @@
     name = "CV"
     url = "files/CV.pdf"
     weight = 10 
+    
+    
+    [[main]]
+ name = "Fun thoughts"  # A name for the link.
+   url = "https://www.hbes.com/roundtable-seminar-series/"  # URL of the section.
+  weight = 150  # Position of the link in the menu.
+
+

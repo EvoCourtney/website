@@ -36,7 +36,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IspWpBAAAAAJ&hl=en&authuser=1
-superuser: true
+superuser: true 
 title: Courtney L. Crosby
 user_groups:
 - Researchers

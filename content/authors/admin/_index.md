@@ -42,4 +42,4 @@ user_groups:
 - Researchers
 - Visitors 
 ---
-Courtney holds a Master’s degree in Psychology from The University of Texas at Austin. Her research focuses on studying aspects of men's and women's sexuality using evolutionary theory and cross-cultural methodologies. Specifically, her interests include individual and cultural differences in sexual disgust, religiosity, and moral norms surrounding sexual behavior. Courtney will graduate with a Ph.D. in Psychology from The University of Texas in May 2022. 
+Courtney's research focuses on studying aspects of men's and women's sexuality using evolutionary theory and cross-cultural methodologies. Specifically, her interests include individual and cultural differences in sexual disgust, religiosity, and moral norms surrounding sexual behavior. Courtney will graduate with a Ph.D. in Psychology from The University of Texas in May 2022. 

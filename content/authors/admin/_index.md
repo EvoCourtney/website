@@ -40,6 +40,6 @@ superuser: true
 title: Courtney L. Crosby
 user_groups:
 - Researchers
-- Visitors
+- Visitors 
 ---
 Courtney holds a Master’s degree in Psychology from The University of Texas at Austin. Her research focuses on studying aspects of men's and women's sexuality using evolutionary theory, cross-cultural research, and advanced statistical methodologies. Specifically, her interests include individual and cultural differences in sexual disgust, religiosity, and moral norms surrounding sexual behavior.

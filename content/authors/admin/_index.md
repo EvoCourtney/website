@@ -15,13 +15,12 @@ education:
     year: 2015
 email: "clcrosby@utexas.edu"
 interests:
-- Evolutionary psychology
-- Individual differences
+- Evolutionary Theory 
 - Human sexuality 
-- Sexual morality
-- Sexual disgust
-- Emotions
-- Religion 
+- Data Wrangling
+- Psychology
+- Big Data
+
 organizations:
 - name: The University of Texas at Austin
   url: ""

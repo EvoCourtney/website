@@ -57,7 +57,7 @@
     weight = 20 
     
    [[main]]
- name = "Texas Education Testimony"  # A name for the link.
+ name = "Texas Sex Education Testimony"  # A name for the link.
    url = "https://youtu.be/ScTUg8hiRJE"  # URL of the section.
   weight = 150  # Position of the link in the menu.
 

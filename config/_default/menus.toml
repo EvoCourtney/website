@@ -29,8 +29,8 @@
  #weight = 60
  
  [[main]]
-    name = "Research Gate"  # A name for the link.
-    url = "https://www.researchgate.net/profile/Courtney_Crosby2"  # URL of the section.
+    name = "LinkedIn"  # A name for the link.
+    url = "https://www.linkedin.com/in/courtney-crosby/"  # URL of the section.
     weight = 40  # Position of the link in the menu.
     
     [[main]]

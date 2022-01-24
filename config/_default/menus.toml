@@ -31,17 +31,12 @@
  [[main]]
     name = "LinkedIn"  # A name for the link.
     url = "https://www.linkedin.com/in/courtney-crosby/"  # URL of the section.
-    weight = 40  # Position of the link in the menu.
-    
-    [[main]]
-    name = "Courtney's work in Psychology Today"  # A name for the link.
-    url = "https://www.psychologytoday.com/us/blog/experimentations/202001/the-6-primary-kinds-sexual-disgust"  # URL of the section.
-    weight = 70  # Position of the link in the menu.
+    weight = 30  # Position of the link in the menu.
 
  [[main]]
  name = "HBES Roundtable Series"  # A name for the link.
    url = "https://www.hbes.com/roundtable-seminar-series/"  # URL of the section.
-  weight = 100  # Position of the link in the menu.
+  weight = 40  # Position of the link in the menu.
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -59,6 +54,6 @@
    [[main]]
  name = "Texas Sex Education Testimony"  # A name for the link.
    url = "https://youtu.be/ScTUg8hiRJE"  # URL of the section.
-  weight = 150  # Position of the link in the menu.
+  weight = 60  # Position of the link in the menu.
 
 

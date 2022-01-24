@@ -39,7 +39,7 @@
     weight = 70  # Position of the link in the menu.
 
  [[main]]
- name = "HBES Roundtable Seminar Series"  # A name for the link.
+ name = "HBES Roundtable Series"  # A name for the link.
    url = "https://www.hbes.com/roundtable-seminar-series/"  # URL of the section.
   weight = 100  # Position of the link in the menu.
 
@@ -51,9 +51,13 @@
     url = "files/CV.pdf"
     weight = 10 
     
+    [[main]]
+    name = "Resume"
+    url = "files/Resume.pdf"
+    weight = 20 
     
    [[main]]
- name = "Texas Sex Education Testimony"  # A name for the link.
+ name = "Texas Education Testimony"  # A name for the link.
    url = "https://youtu.be/ScTUg8hiRJE"  # URL of the section.
   weight = 150  # Position of the link in the menu.
 

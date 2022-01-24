@@ -7,19 +7,20 @@ education:
   - course: Ph.D. in Individual Differences and Evolutionary Psychology
     institution: The University of Texas at Austin
     year: Expected in 2022
-  - course: M.A. in Psychology 
+  - course: M.A., Psychology 
     institution: The University of Texas at Austin
     year: 2019
-  - course: B.A. in Psychology 
+  - course: B.A.., Psychology 
     institution: The University of Texas at Austin
     year: 2015
 email: "clcrosby@utexas.edu"
 interests:
 - Evolutionary Theory 
 - Human sexuality 
+- Research Design
 - Data Wrangling
+- Open Science
 - Psychology
-- Big Data
 
 organizations:
 - name: The University of Texas at Austin

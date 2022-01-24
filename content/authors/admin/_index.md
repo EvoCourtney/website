@@ -4,7 +4,7 @@ authors:
 bio: My research interests include individual differences in sexual disgust, religiosity, and moral norms surrounding sexual behavior.
 education:
   courses:
-  - course: Ph.D. in Individual Differences and Evolutionary Psychology
+  - course: Ph.D., Individual Differences and Evolutionary Psychology
     institution: The University of Texas at Austin
     year: Expected in 2022
   - course: M.A., Psychology 

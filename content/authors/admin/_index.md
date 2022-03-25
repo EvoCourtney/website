@@ -15,7 +15,6 @@ education:
     year: 2015
 email: "courtneycrosbyphd@gmail.com"
 Skills:
-
 Identification of best research methodologies
 Qualitative and quantitative research design
 Model evaluation and interpretation
@@ -26,7 +25,7 @@ Mentorship
 organizations:
 - name: The University of Texas at Austin
   url: ""
-role: Doctoral Candidate 
+role: Mixed-methods Researcher  
 social:
 - icon: envelope
   icon_pack: fas

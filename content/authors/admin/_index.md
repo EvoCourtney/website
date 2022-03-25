@@ -13,15 +13,16 @@ education:
   - course: B.A.., Psychology 
     institution: The University of Texas at Austin
     year: 2015
-email: "clcrosby@utexas.edu"
-interests:
-- Evolutionary Theory 
-- Human sexuality 
-- Research Design
-- Data Wrangling
-- Open Science
-- Psychology
+email: "courtneycrosbyphd@gmail.com"
+Skills:
 
+Identification of best research methodologies
+Qualitative and quantitative research design
+Model evaluation and interpretation
+Applied and descriptive statistics
+Hypothesis testing
+Peer-review
+Mentorship
 organizations:
 - name: The University of Texas at Austin
   url: ""
@@ -47,12 +48,3 @@ I am graduating with my Ph.D. in Psychology from The University of Texas in May 
 I leverage evolutionary theory, mixed-methods study design, and applied statistics to answer all of my research questions. 
 
 Outside of research, I enjoy drinking copious amounts of coffee, petting my Dog, Remy, reading fiction books, traveling, and doing yoga. 
-
-Skills:
-- Identification of best research methodologies
-- Qualitative and quantitative research design
-- Model evaluation and interpretation
-- Applied and descriptive statistics
-- Hypothesis testing
-- Peer-review
-- Mentorship

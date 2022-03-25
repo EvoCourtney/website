@@ -30,7 +30,7 @@ role: Doctoral Candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:clcrosby@utexas.edu'
+  link: 'mailto:courtneycrosbyphd@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/courtneylcrosby

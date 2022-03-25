@@ -42,8 +42,17 @@ user_groups:
 - Researchers
 - Visitors 
 ---
-Courtney's research focuses on studying aspects of men's and women's sexuality using evolutionary theory and cross-cultural methodologies. Specifically, her interests include individual and cultural differences in sexual disgust, religiosity, and moral norms surrounding sexual behavior. 
+I am graduating with my Ph.D. in Psychology from The University of Texas in May 2022. 
 
-Courtney will graduate with a Ph.D. in Psychology from The University of Texas in May 2022. She is on the job market.
+I leverage evolutionary theory, mixed-methods study design, and applied statistics to answer all of my research questions. 
 
-Outside of research, Courtney enjoys drinking copious amounts of coffee, petting her adorable Dog named Remy, reading fiction books (Amor Towles is superior, no questions), traveling, and doing yoga. 
+Outside of research, I enjoy drinking copious amounts of coffee, petting my Dog, Remy, reading fiction books, traveling, and doing yoga. 
+
+Skills:
+- Identification of best research methodologies
+- Qualitative and quantitative research design
+- Model evaluation and interpretation
+- Applied and descriptive statistics
+- Hypothesis testing
+- Peer-review
+- Mentorship

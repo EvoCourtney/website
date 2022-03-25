@@ -46,4 +46,4 @@ I am graduating with my Ph.D. in Psychology from The University of Texas in May 
 
 I leverage evolutionary theory, mixed-methods study design, and applied statistics to answer all of my research questions. 
 
-Outside of research, I enjoy drinking copious amounts of coffee, petting my Dog, Remy, reading fiction books, traveling, and doing yoga. 
+Outside of research, I enjoy drinking copious amounts of coffee, petting my Dog, Remy, reading fiction books, traveling, and doing yoga. Say hi!

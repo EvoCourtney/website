@@ -15,13 +15,13 @@ education:
     year: 2015
 email: "courtneycrosbyphd@gmail.com"
 Skills:
-Identification of best research methodologies
-Qualitative and quantitative research design
-Model evaluation and interpretation
-Applied and descriptive statistics
-Hypothesis testing
-Peer-review
-Mentorship
+- Identification of best research methodologies
+- Qualitative and quantitative research design
+- Model evaluation and interpretation
+- Applied and descriptive statistics
+- Hypothesis testing
+- Peer-review
+- Mentorship
 organizations:
 - name: The University of Texas at Austin
   url: ""

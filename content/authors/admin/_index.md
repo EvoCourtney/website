@@ -14,6 +14,14 @@ education:
     institution: The University of Texas at Austin
     year: 2015
 email: "courtneycrosbyphd@gmail.com"
+Skills:
+Identification of best research methodologies
+Qualitative and quantitative research design
+Model evaluation and interpretation
+Applied and descriptive statistics
+Hypothesis testing
+Peer-review
+Mentorship
 organizations:
 - name: The University of Texas at Austin
   url: ""
@@ -40,11 +48,3 @@ I leverage evolutionary theory, mixed-methods study design, and applied statisti
 
 Outside of research, I enjoy drinking copious amounts of coffee, petting my Dog, Remy, reading fiction books, traveling, and doing yoga. Say hi!
 
-Skills:
-Identification of best research methodologies
-Qualitative and quantitative research design
-Model evaluation and interpretation
-Applied and descriptive statistics
-Hypothesis testing
-Peer-review
-Mentorship

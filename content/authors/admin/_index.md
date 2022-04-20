@@ -42,7 +42,7 @@ user_groups:
 - Researchers
 - Visitors 
 ---
-I am graduating with my Ph.D. in Psychology from The University of Texas in May 2022. 
+I am graduating with my Ph.D. in Psychology from The University of Texas in the Summer of 2022. 
 
 I leverage evolutionary theory, mixed-methods study design, and applied statistics to answer all of my research questions. 
 

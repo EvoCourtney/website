@@ -37,14 +37,11 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IspWpBAAAAAJ&hl=en&authuser=1
 superuser: true 
-title: Courtney L. Crosby
+title: Courtney L. Crosby, Ph.D.
 user_groups:
 - Researchers
 - Visitors 
 ---
-I am graduating with my Ph.D. in Psychology from The University of Texas in the Summer of 2022. 
-
-I leverage evolutionary theory, mixed-methods study design, and applied statistics to answer all of my research questions. 
+I have a psychology PhD from UT Austin, and am currently a Quantitative UX Researcher at Expedia Group on the CX measurement team. I leverage mixed-methods, applied statistics, and my graduate training to improve user experiences.
 
 Outside of research, I enjoy drinking copious amounts of coffee, petting my Dog, Remy, reading fiction books, traveling, and doing yoga. Say hi!
-

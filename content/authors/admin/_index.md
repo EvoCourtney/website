@@ -19,8 +19,9 @@ Interests:
 - Qualitative and quantitative research design
 - Model evaluation and interpretation
 - Applied and descriptive statistics
+- Postproduction Measurement 
 - Preproduction Measurement 
-- Jobs to Be Done Analysis
+- Measure Development 
 - Hypothesis testing
 - Peer-review
 - Mentorship

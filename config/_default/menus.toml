@@ -33,12 +33,6 @@
     url = "https://www.linkedin.com/in/courtney-crosby/"  # URL of the section.
     weight = 30  # Position of the link in the menu.
 
- [[main]]
- name = "HBES Roundtable Series"  # A name for the link.
-   url = "https://www.hbes.com/roundtable-seminar-series/"  # URL of the section.
-  weight = 40  # Position of the link in the menu.
-
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
@@ -54,6 +48,6 @@
    [[main]]
  name = "Texas Sex Education Testimony"  # A name for the link.
    url = "https://youtu.be/ScTUg8hiRJE"  # URL of the section.
-  weight = 60  # Position of the link in the menu.
+  weight = 30  # Position of the link in the menu.
 
 

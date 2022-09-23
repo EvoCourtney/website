@@ -6,7 +6,7 @@ education:
   courses:
   - course: Ph.D., Individual Differences and Evolutionary Psychology
     institution: The University of Texas at Austin
-    year: 2023 
+    year: 2022 
   - course: M.A., Psychology 
     institution: The University of Texas at Austin
     year: 2019
